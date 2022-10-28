@@ -1,2 +1,2 @@
 # DEpMS
-DEpMS analysis
+Code to reproduce the benchmark analysis
